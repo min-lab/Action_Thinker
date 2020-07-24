@@ -7,6 +7,7 @@
 * Light Gradient Boosting
 
 ### 目錄
+│&nbsp;&nbsp;&nbsp;&nbsp;.gitignore 忽略檔案  
 │&nbsp;&nbsp;&nbsp;&nbsp;evaluate.html 評估程式碼，可直接開啟  
 │&nbsp;&nbsp;&nbsp;&nbsp;evaluate.ipynb 評估程式碼  
 │&nbsp;&nbsp;&nbsp;&nbsp;LICENSE 許可證  
