@@ -9,7 +9,7 @@
 ### 目錄
 │&nbsp;&nbsp;&nbsp;&nbsp;evaluate.html 評估程式碼，可直接開啟  
 │&nbsp;&nbsp;&nbsp;&nbsp;evaluate.ipynb 評估程式碼  
-│&nbsp;&nbsp;&nbsp;&nbsp;LICENSE MIT許可證  
+│&nbsp;&nbsp;&nbsp;&nbsp;LICENSE 許可證  
 │&nbsp;&nbsp;&nbsp;&nbsp;README.md 說明文件  
 │&nbsp;&nbsp;&nbsp;&nbsp;requirements.txt 依賴函式庫  
 │&nbsp;&nbsp;&nbsp;&nbsp;train.html 訓練程式碼，可直接開啟  
