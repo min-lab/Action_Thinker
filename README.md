@@ -15,25 +15,25 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;train.html 訓練程式碼，可直接開啟  
 │&nbsp;&nbsp;&nbsp;&nbsp;train.ipynb 訓練程式碼  
 │  
-├─model 保存模型位置  
-├─old 舊數據  
-│  ├─old_code  
-│  └─old_data  
-│      ├─20200713  
-│      │  ├─test  
-│      │  └─train  
-│      │      ├─00靜止  
-│      │      ├─01上樓梯  
-│      │      ├─02大跳  
-│      │      └─03前進  
-│      ├─20200719  
-│      │  ├─test  
-│      │  │  └─混和  
-│      │  └─train  
-│      │      ├─00靜止  
-│      │      └─03來回走  
-│      └─20200723  
-│          ├─test  
+├─&nbsp;&nbsp;&nbsp;&nbsp;model 保存模型位置  
+├─&nbsp;&nbsp;&nbsp;&nbsp;old 舊數據  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─old_code  
+│&nbsp;&nbsp;&nbsp;&nbsp;└─old_data  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─20200713  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│  ├─test  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│  └─train  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│      ├─00靜止  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│      ├─01上樓梯  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│      ├─02大跳  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│      └─03前進  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─20200719  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│  ├─test  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│  │  └─混和  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│  └─train  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│      ├─00靜止  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│      └─03來回走  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─20200723  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─test  
 │          └─train  
 │              ├─01擦桌子  
 │              ├─02插秧  
