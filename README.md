@@ -6,17 +6,17 @@
 * Extreme Gradient Boosting
 * Light Gradient Boosting
 
-### 目錄  
-│  evaluate.html 評估程式碼，可直接開啟 
-│  evaluate.ipynb 評估程式碼 
-│  LICENSE MIT許可證 
-│  README.md 說明文件
-│  requirements.txt 依賴函式庫 
-│  train.html 訓練程式碼，可直接開啟 
-│  train.ipynb 訓練程式碼 
+### 目錄
+│  evaluate.html 評估程式碼，可直接開啟  
+│  evaluate.ipynb 評估程式碼  
+│  LICENSE MIT許可證  
+│  README.md 說明文件  
+│  requirements.txt 依賴函式庫  
+│  train.html 訓練程式碼，可直接開啟  
+│  train.ipynb 訓練程式碼  
 │  
-├─model 保存模型位置 
-├─old 舊數據 
+├─model 保存模型位置  
+├─old 舊數據  
 │  ├─old_code 
 │  └─old_data 
 │      ├─20200713 
