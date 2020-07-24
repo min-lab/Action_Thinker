@@ -1,4 +1,4 @@
-### 混合行為分析使用機器學習分法
+### 混合行為分析使用機器學習
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/min-lab/Action_Thinker/master)
 * Logistic Regression
 * Support Vector Machine
@@ -7,8 +7,8 @@
 * Light Gradient Boosting
 
 ### 目錄
-│  evaluate.html 評估程式碼，可直接開啟  
-│  evaluate.ipynb 評估程式碼  
+│&nbsp;&nbsp;&nbsp;&nbsp;evaluate.html 評估程式碼，可直接開啟  
+│&nbsp;&nbsp;&nbsp;&nbsp;evaluate.ipynb 評估程式碼  
 │  LICENSE MIT許可證  
 │  README.md 說明文件  
 │  requirements.txt 依賴函式庫  
